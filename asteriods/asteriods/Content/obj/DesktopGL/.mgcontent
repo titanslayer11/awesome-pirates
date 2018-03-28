@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/pirate ship.png</File>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/water tile.png</File>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/freestyle script regular.spritefont</File>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/enemyship.png</File>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/cannonBall.png</File>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/Arial.spritefont</File>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/dead ship.png</File>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/pirate background.jpg</File>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/ocean.jpg</File>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/pirate victory.jpg</File>
+    <File>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/pirate ending 2.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

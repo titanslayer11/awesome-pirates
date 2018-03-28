@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asteriods", "asteriods\asteriods.csproj", "{FDC10A6A-B903-4458-9562-81B47CFE49AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC10A6A-B903-4458-9562-81B47CFE49AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC10A6A-B903-4458-9562-81B47CFE49AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC10A6A-B903-4458-9562-81B47CFE49AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC10A6A-B903-4458-9562-81B47CFE49AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69490F46-4DD0-4793-B7AA-92F3DB0693E3}
+	EndGlobalSection
+EndGlobal
