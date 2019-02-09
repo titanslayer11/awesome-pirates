@@ -27,3 +27,33 @@ C:\Users\James C\Documents\Visual Studio 2017\games\asteriods\asteriods\bin\Desk
 C:\Users\James C\Documents\Visual Studio 2017\games\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\ocean.xnb
 C:\Users\James C\Documents\Visual Studio 2017\games\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\pirate victory.xnb
 C:\Users\James C\Documents\Visual Studio 2017\games\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\pirate ending 2.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\Arial.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\cannonBall.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\dead ship.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\enemyship.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\freestyle script regular.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\ocean.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\pirate background.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\pirate ending 2.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\pirate ship.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\pirate victory.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\Content\water tile.xnb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\asteriods.exe
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\asteriods.pdb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\obj\Debug\asteriods.csproj.CoreCompileInputs.cache
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\obj\Debug\asteriods.exe
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\obj\Debug\asteriods.pdb
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\obj\Debug\asteriods.csprojAssemblyReference.cache
+C:\Users\James C\Documents\awesome-pirates\asteriods\asteriods\obj\Debug\asteriods.csproj.CopyComplete

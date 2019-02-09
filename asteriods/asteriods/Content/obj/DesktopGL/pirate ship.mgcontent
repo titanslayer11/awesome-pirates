@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/pirate ship.png</SourceFile>
+  <SourceFile>C:/Users/James C/Documents/awesome-pirates/asteriods/asteriods/Content/pirate ship.png</SourceFile>
   <SourceTime>2018-02-14T21:05:35.4915561+11:00</SourceTime>
-  <DestFile>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/bin/DesktopGL/pirate ship.xnb</DestFile>
-  <DestTime>2018-02-14T21:06:06.5532591+11:00</DestTime>
+  <DestFile>C:/Users/James C/Documents/awesome-pirates/asteriods/asteriods/Content/bin/DesktopGL/pirate ship.xnb</DestFile>
+  <DestTime>2018-06-30T17:26:23.381165+10:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-02T02:05:36+11:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

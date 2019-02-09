@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/dead ship.png</SourceFile>
+  <SourceFile>C:/Users/James C/Documents/awesome-pirates/asteriods/asteriods/Content/dead ship.png</SourceFile>
   <SourceTime>2018-03-14T20:54:59.8437106+11:00</SourceTime>
-  <DestFile>C:/Users/James C/Documents/Visual Studio 2017/games/asteriods/asteriods/Content/bin/DesktopGL/dead ship.xnb</DestFile>
-  <DestTime>2018-03-14T20:55:50.1111157+11:00</DestTime>
+  <DestFile>C:/Users/James C/Documents/awesome-pirates/asteriods/asteriods/Content/bin/DesktopGL/dead ship.xnb</DestFile>
+  <DestTime>2018-06-30T17:26:23.879162+10:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-02T02:05:36+11:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
